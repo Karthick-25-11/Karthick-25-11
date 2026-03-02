@@ -42,9 +42,12 @@ Currently focusing on DevOps best practices, Infrastructure as Code, and cloud-n
 
 ---
 
-## 📈 GitHub Stats
 
-![Karthick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Karthick-25-11&show_icons=true&theme=tokyonight)
+### 📊 GitHub Overview
+
+![Followers](https://img.shields.io/github/followers/Karthick-25-11?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Karthick-25-11?affiliations=OWNER&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
 
 ---
 
