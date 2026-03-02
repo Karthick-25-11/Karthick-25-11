@@ -44,7 +44,7 @@ Currently focusing on DevOps best practices, Infrastructure as Code, and cloud-n
 
 ## 📈 GitHub Stats
 
-![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthick-25-11&show_icons=true&theme=radical&cache_seconds=1800)
+![Karthick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Karthick-25-11&show_icons=true&theme=tokyonight)
 
 ---
 
