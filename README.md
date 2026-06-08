@@ -1,85 +1,139 @@
 # 👋 Hi, I'm Karthick K
 
-🚀 DevOps & Cloud Engineer | AWS | Docker | Terraform | CI/CD
+## 🚀 DevOps & Cloud Engineer | AWS | Terraform | Docker | CI/CD | Automation
 
-I’m passionate about building scalable, automated, and reliable cloud infrastructure.
-I enjoy turning manual processes into automated pipelines and deploying applications with efficiency and security in mind.
-Currently focusing on DevOps best practices, Infrastructure as Code, and cloud-native solutions.
+Passionate about designing, automating, and managing scalable cloud infrastructure with a strong focus on DevOps principles, Infrastructure as Code (IaC), and cloud-native technologies.
+
+I enjoy transforming manual and repetitive operations into reliable automated workflows, enabling faster deployments, improved system reliability, and operational efficiency.
+
+My interests span across Cloud Engineering, DevOps Automation, GitOps, AIOps, Infrastructure Provisioning, CI/CD Pipelines, Containerization, Monitoring, and Site Reliability practices.
 
 ---
 
-## 🔧 Tech Stack
+## 💡 About Me
 
-**☁️ Cloud:**
+* ☁️ Hands-on experience with AWS cloud services and infrastructure deployment
+* 🔄 Building automated CI/CD pipelines for faster and reliable software delivery
+* 🏗️ Designing Infrastructure as Code solutions using Terraform
+* 🐳 Containerizing applications with Docker and deploying production-ready workloads
+* 📊 Exploring Monitoring, Observability, and Intelligent Operations (AIOps)
+* 🔍 Passionate about GitOps workflows and automated infrastructure management
+* 🌱 Continuously learning Kubernetes, Cloud Architecture, and Platform Engineering
 
-* AWS (EC2, S3, IAM, VPC, CloudWatch)
+---
 
-**⚙️ DevOps & CI/CD:**
+## 🛠️ Technical Skills
+
+### ☁️ Cloud Platforms
+
+* AWS EC2
+* AWS S3
+* AWS IAM
+* AWS VPC
+* AWS CloudWatch
+* AWS Route 53
+
+### ⚙️ DevOps & CI/CD
 
 * Docker
 * GitHub Actions
-* CI/CD Pipelines
+* CI/CD Pipeline Design
 * Nginx
+* Linux Administration
+* Shell Scripting
 
-**🛠 Infrastructure as Code:**
+### 🏗️ Infrastructure as Code
 
 * Terraform
+* Infrastructure Automation
+* Environment Provisioning
+* Resource Lifecycle Management
 
-**💻 Programming & Tools:**
+### 💻 Programming & Tools
 
 * Node.js
+* Git & GitHub
 * Linux
-* Git
+* REST APIs
+
+### 📊 Monitoring & Observability
+
+* CloudWatch
+* Log Monitoring
+* Infrastructure Health Monitoring
+* Alerting & Incident Visibility
 
 ---
 
-## 📌 What I’m Working On
+## 🚀 Featured Projects
 
-* Building end-to-end CI/CD pipelines
-* Automating infrastructure using Terraform
-* Containerizing applications using Docker
-* Deploying scalable apps on AWS
+### 🔹 AIOps-Based Proactive & Self-Healing Infrastructure Monitoring
+
+Built an intelligent cloud monitoring platform capable of:
+
+* Detecting abnormal infrastructure behavior
+* Correlating operational events
+* Reducing alert noise
+* Automating remediation workflows
+* Enabling proactive incident management
+
+### 🔹 GitOps Configuration & Drift Intelligence Platform
+
+Developed a GitOps-driven system that:
+
+* Continuously compares desired and actual infrastructure states
+* Detects configuration drift
+* Generates actionable insights
+* Improves governance and compliance
+* Enhances infrastructure reliability through automated visibility
+
+### 🔹 AWS + Terraform Infrastructure Automation
+
+* Provisioned cloud infrastructure using Terraform
+* Automated resource deployment workflows
+* Applied Infrastructure as Code best practices
+* Improved consistency across environments
+
+### 🔹 Dockerized Application Deployments
+
+* Containerized applications for portability and scalability
+* Optimized deployment workflows
+* Simplified environment management
+* Enabled reproducible deployments
 
 ---
 
+## 📈 Current Focus
 
-### 📊 GitHub Overview
+* Kubernetes & Container Orchestration
+* Advanced AWS Architecture
+* GitOps & Platform Engineering
+* Monitoring & Observability
+* Site Reliability Engineering (SRE)
+* Cloud Security Best Practices
+
+---
+
+## 📊 GitHub Stats
 
 ![Followers](https://img.shields.io/github/followers/Karthick-25-11?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Karthick-25-11?affiliations=OWNER&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Karthick-25-11?affiliations=OWNER\&style=for-the-badge)
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Career Objective
 
-* Kubernetes
-* Advanced AWS Architecture
-* Monitoring & Observability
+Seeking opportunities to contribute as a DevOps / Cloud Engineer where I can leverage automation, cloud technologies, and infrastructure engineering skills to build scalable, resilient, and efficient systems while continuously learning and growing.
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/karthick4018
-* Email: karthick.ceg20@gmail.com
+* LinkedIn: https://linkedin.com/in/karthick4018
+* Email: [karthick.ceg20@gmail.com](mailto:karthick.ceg20@gmail.com)
 
 ---
 
+### ⚡ DevOps Philosophy
 
-
-
-<!--
-**Karthick-25-11/Karthick-25-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Automate everything that is repetitive, monitor everything that matters, and continuously improve every deployment."
