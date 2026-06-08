@@ -54,14 +54,18 @@ My interests span across Cloud Engineering, DevOps Automation, GitOps, AIOps, In
 * Node.js
 * Git & GitHub
 * Linux
-* REST APIs
+* Python
+* Bash
 
 ### 📊 Monitoring & Observability
 
 * CloudWatch
+* Prometheus
+* Grafana
 * Log Monitoring
 * Infrastructure Health Monitoring
 * Alerting & Incident Visibility
+* RCA
 
 ---
 
