@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Karthick K
+# Hi, I'm Karthick K
 
 ## 🚀 DevOps & Cloud Engineer | AWS | Terraform | Docker | CI/CD | Automation
 
